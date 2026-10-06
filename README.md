@@ -3,7 +3,7 @@ Dart Fundamentals – Week 7
 Name: Nolly T. Licuanan
 Course: NTC_PC16 – Mobile Development w/ Lab
 Week: 7 – Dart Fundamentals
-Section: [Your Section]
+Section: 3.3
 
 Description
 
