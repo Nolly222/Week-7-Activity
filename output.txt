@@ -1,0 +1,8 @@
+Student Name: Nolly Licuanan
+Quiz Score: 85
+Assignment Score: 90.5
+Is Passed: true
+Average Score: 87.75
+Whole Number Average: 87
+Score Remainder: 1.5
+Does the student have a high score? true
